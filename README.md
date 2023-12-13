@@ -1,2 +1,2 @@
 # gh-cli
-Read the [Wiki](https://github.com/pr-dhruv/gh-cli/wiki/Github-CLI)
+Read the <a href="https://github.com/pr-dhruv/gh-cli/wiki/Github-CLI" target="_blank">Wiki</a>
